@@ -1,0 +1,15 @@
+{
+  "name": "math-chat-app",
+  "version": "1.0.0",
+  "description": "Math problem solver chat app with a secure backend proxy to the Anthropic API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
